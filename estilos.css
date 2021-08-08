@@ -1,0 +1,58 @@
+
+body{
+    
+    /*background-image:url(plantilla.PNG);*/
+    /*background-repeat: no-repeat;*/
+    background-color: silver;
+    width: 80%;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    letter-spacing: 5px;
+    
+}
+
+h2{
+    padding: 5px 0px 5px 15px;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(71, 70, 70);
+    color: white;
+}
+
+p{
+    text-indent: 43px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+div{
+margin-left: 160px;
+}
+
+div p{
+    
+    height: 35px;
+    width: 1250px;
+}
+
+.rojo {
+    color: red;
+    font-style: oblique;
+}
+
+.negrita{
+    background-color: white;
+    font-weight: bold;
+}
+
+img{
+    float: left;
+    margin-right: 15px;
+    height: 180px;
+}
